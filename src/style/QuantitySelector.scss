@@ -1,0 +1,38 @@
+@import './vars.scss';
+
+.quantity-selector {
+  font-size: 1.4rem;
+  &__wrapper {
+    align-items: center;
+    display: flex;
+  }
+  &__input {
+    border: 1px solid $rei-color-text-secondary;
+    border-radius: 4px;
+    font-size: 1.6rem;
+    padding: 5px;
+    text-align: center;
+    width: 90px;
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+  }
+  &__button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    opacity: 0.7;
+    &:hover {
+      opacity: 0.9;
+    }
+    &--disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+      &:hover {
+        opacity: 0.3;
+      }
+    }
+  }
+}

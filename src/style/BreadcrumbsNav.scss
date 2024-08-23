@@ -1,0 +1,30 @@
+@import './vars.scss';
+
+.breadcrumbs {
+  display: inline-flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  grid-area: breadc;
+  &__item {
+    display: inline-flex;
+    flex: none;
+    &:not(:last-child) {
+      &:after {
+        content: "/";
+        padding: 0 5px;
+      }
+    }
+    a {
+      color: $rei-color-text-secondary;
+      text-decoration: none;
+      &:hover {
+        color: $rei-color-text-link-primary;
+      }
+    }
+    button {
+      background-color: transparent;
+      border: none;
+      color: $rei-color-text-secondary;
+    }
+  }
+}

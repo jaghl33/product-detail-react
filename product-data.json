@@ -1,0 +1,337 @@
+{
+  "product": {
+    "title": "Catamount 2 Trail-Running Shoes - Women's",
+    "styleId": "217844",
+    "canonicalUrl": "/product/217844/brooks-catamount-2-trail-running-shoes-womens",
+    "breadcrumbs": [
+      {
+        "item": {
+          "name": "Footwear",
+          "url": "/c/footwear",
+          "canonical": "footwear"
+        }
+      },
+      {
+        "item": {
+          "name": "Women's Footwear",
+          "url": "/c/womens-footwear",
+          "canonical": "womens-footwear"
+        }
+      },
+      {
+        "item": {
+          "name": "Women's Shoes",
+          "url": "/c/womens-shoes",
+          "canonical": "womens-shoes"
+        }
+      },
+      {
+        "item": {
+          "name": "Women's Running Shoes",
+          "url": "/c/womens-running-shoes",
+          "canonical": "womens-running-shoes"
+        }
+      },
+      {
+        "item": {
+          "name": "Women's Trail-Running Shoes",
+          "url": "/c/womens-trail-running-shoes",
+          "canonical": "womens-trail-running-shoes"
+        }
+      }
+    ],
+    "displayOptions": {
+      "dividendEstimatedSavingsText": "$17.00",
+      "showDividendMessage": true,
+      "carouselOrientation": "horizontal",
+      "featuredImage": {
+        "id": "5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "maxHeight": 1566,
+        "maxWidth": 3898,
+        "uri": "/media/5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "heroImageUrl": "/media/5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "thumbnailUrl": "/media/5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "color": {
+          "name": "BLUE/BLACK/YELLOW",
+          "code": "129133",
+          "colorFamily": "Blue",
+          "displayLabel": "Blue/Black/Yellow",
+          "hexValue": null
+        },
+        "featured": true
+      }
+    },
+    "sizes": [
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "10.5",
+      "11"
+    ],
+    "images": [
+      {
+        "id": "5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "type": "Product Image",
+        "maxHeight": 1566,
+        "maxWidth": 3898,
+        "uri": "/media/5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "heroImageUrl": "/media/5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "thumbnailUrl": "/media/5c54c6ce-f418-4134-b30f-46b5e89a7ad0",
+        "color": {
+          "code": "129133",
+          "colorFamily": "Blue",
+          "displayLabel": "Blue/Black/Yellow"
+        }
+      },
+      {
+        "id": "a4a9d103-de18-493c-ac59-1d21241061e3",
+        "type": "Detail Image",
+        "maxHeight": 1510,
+        "maxWidth": 3947,
+        "uri": "/media/a4a9d103-de18-493c-ac59-1d21241061e3",
+        "heroImageUrl": "/media/a4a9d103-de18-493c-ac59-1d21241061e3",
+        "thumbnailUrl": "/media/a4a9d103-de18-493c-ac59-1d21241061e3",
+        "color": {
+          "code": "129133",
+          "colorFamily": "Blue",
+          "displayLabel": "Blue/Black/Yellow"
+        }
+      },
+      {
+        "id": "47a79a91-deba-4d66-9f0f-0229ad8095a3",
+        "type": "Detail Image",
+        "maxHeight": 2023,
+        "maxWidth": 3098,
+        "uri": "/media/47a79a91-deba-4d66-9f0f-0229ad8095a3",
+        "heroImageUrl": "/media/47a79a91-deba-4d66-9f0f-0229ad8095a3",
+        "thumbnailUrl": "/media/47a79a91-deba-4d66-9f0f-0229ad8095a3",
+        "color": {
+          "code": "129133",
+          "colorFamily": "Blue",
+          "displayLabel": "Blue/Black/Yellow"
+        }
+      },
+      {
+        "id": "31c38820-fa32-45fc-9ce8-081a3e30fa43",
+        "type": "Detail Image",
+        "maxHeight": 2363,
+        "maxWidth": 2251,
+        "uri": "/media/31c38820-fa32-45fc-9ce8-081a3e30fa43",
+        "heroImageUrl": "/media/31c38820-fa32-45fc-9ce8-081a3e30fa43",
+        "thumbnailUrl": "/media/31c38820-fa32-45fc-9ce8-081a3e30fa43",
+        "color": {
+          "code": "129133",
+          "colorFamily": "Blue",
+          "displayLabel": "Blue/Black/Yellow"
+        }
+      },
+      {
+        "id": "b4655033-7f9d-4056-be9a-7e643e503732",
+        "type": "Detail Image",
+        "maxHeight": 1567,
+        "maxWidth": 4122,
+        "uri": "/media/b4655033-7f9d-4056-be9a-7e643e503732",
+        "heroImageUrl": "/media/b4655033-7f9d-4056-be9a-7e643e503732",
+        "thumbnailUrl": "/media/b4655033-7f9d-4056-be9a-7e643e503732",
+        "color": {
+          "code": "129133",
+          "colorFamily": "Blue",
+          "displayLabel": "Blue/Black/Yellow"
+        }
+      }
+    ],
+    "videos": [
+      {
+        "title": "Brooks Catamount 2 Trail-Running Shoes - Women's Video",
+        "description": "Light and responsive for going faster and farther up the trails, Brooks Catamount 2 women's trail-running shoes use propulsion plates and nitrogen-infused midsoles to help fuel your summit push.",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VGgZDZK7GRk/default.jpg",
+        "heroImageUrl": "https://i.ytimg.com/vi/VGgZDZK7GRk/maxresdefault.jpg",
+        "articleUrl": "https://youtu.be/VGgZDZK7GRk",
+        "sourceType": "YouTube",
+        "status": "live"
+      }
+    ],
+    "bySize": {
+      "6": {
+        "129133": {
+          "skuId": "2178440001",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100684,
+            "name": "6"
+          },
+          "price": 170
+        }
+      },
+      "7": {
+        "129133": {
+          "skuId": "2178440003",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100686,
+            "name": "7"
+          },
+          "price": 170
+        }
+      },
+      "8": {
+        "129133": {
+          "skuId": "2178440005",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100688,
+            "name": "8"
+          },
+          "price": 170
+        }
+      },
+      "9": {
+        "129133": {
+          "skuId": "2178440007",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100690,
+            "name": "9"
+          },
+          "price": 170
+        }
+      },
+      "10": {
+        "129133": {
+          "skuId": "2178440009",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100608,
+            "name": "10"
+          },
+          "price": 170
+        }
+      },
+      "11": {
+        "129133": {
+          "skuId": "2178440011",
+          "status": "UNAVAILABLE",
+          "size": {
+            "id": 100694,
+            "name": "11"
+          },
+          "price": 170
+        }
+      },
+      "10.5": {
+        "129133": {
+          "skuId": "2178440010",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100693,
+            "name": "10.5"
+          },
+          "price": 170
+        }
+      },
+      "6.5": {
+        "129133": {
+          "skuId": "2178440002",
+          "status": "UNAVAILABLE",
+          "size": {
+            "id": 100685,
+            "name": "6.5"
+          },
+          "price": 170
+        }
+      },
+      "7.5": {
+        "129133": {
+          "skuId": "2178440004",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100687,
+            "name": "7.5"
+          },
+          "price": 170
+        }
+      },
+      "8.5": {
+        "129133": {
+          "skuId": "2178440006",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100689,
+            "name": "8.5"
+          },
+          "price": 170
+        }
+      },
+      "9.5": {
+        "129133": {
+          "skuId": "2178440008",
+          "status": "AVAILABLE",
+          "size": {
+            "id": 100691,
+            "name": "9.5"
+          },
+          "price": 170
+        }
+      }
+    },
+    "featuredSpecs": [
+      {
+        "name": "Trail-Running Shoe Type",
+        "values": [
+          "Rugged-Trail"
+        ]
+      },
+      {
+        "name": "Heel-to-Toe Drop (mm)",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "name": "Running Shoe Cushioning",
+        "values": [
+          "Moderate Cushion"
+        ]
+      },
+      {
+        "name": "Rock Plate",
+        "values": [
+          "Yes"
+        ]
+      }
+    ],
+    "description": "Light and responsive for going faster and farther up the trails, Brooks Catamount 2 women's trail-running shoes use propulsion plates and nitrogen-infused midsoles to help fuel your summit push.",
+    "primaryCategory": {
+      "name": "Women's Trail-Running Shoes",
+      "canonical": "womens-trail-running-shoes",
+      "link": "/c/womens-trail-running-shoes"
+    },
+    "membership": {
+      "image": {
+        "url": "/assets/membership/pdp/membership-spot-illustration/live.svg",
+        "alt": ""
+      },
+      "content": {
+        "benefitsHeading": "Members, get an estimated $17.00 back on this item as a part of your annual %%coopMemberReward%%.",
+        "actions": {
+          "coopMemberReward": {
+            "text": "Co-op Member Reward",
+            "target": "/membership"
+          }
+        }
+      }
+    },
+    "brand": {
+      "canonical": "brooks",
+      "link": "/b/brooks",
+      "name": "Brooks",
+      "id": 121
+    }
+  }
+}
